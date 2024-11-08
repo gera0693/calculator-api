@@ -28,6 +28,16 @@ If the input is invalid, it returns a 400 status code with an error message.
 3. Run `npm start` to start the server.
 4. Use a tool like Postman or curl to send POST requests to `http://localhost:3000/calculate`.
 
+## Running Tests
+
+To run the tests for this API:
+
+1. Ensure the dependencies are installed by running `npm install`.
+2. To run the tests, use the following command:
+
+   ```bash
+   npm test
+
 ## Error Handling
 
 - If the input is invalid, it returns a 400 status code with an error message.
