@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Archivos de configuración específicos
+config/
+.env
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos generados por herramientas
+build/
+dist/
